@@ -7,3 +7,7 @@ def count_word_frequency(file_path):
                 word = word.lower().strip(':\/!.,?')
                 word_count[word] = word_count.get(word, 0) + 1
     return word_count
+
+file_path = 'sample.txt'
+word_frequency = count_word_frequency(file_path)
+print(word_frequency)
