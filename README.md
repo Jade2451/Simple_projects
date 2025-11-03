@@ -11,4 +11,7 @@ Collection of projects built during my free-time/ coursework.
 8.  `ecg.py` : Continuous animation of ECG.
 9.  `file_organizer.py` : Organizes files in a given folder into subdirectories based on file extension.
 10.  `loading_bar.py` : Simulates a loading process for a given duration and displays a progress bar.
-11.  
+11.  `password_checker.py` : To check if the password is strong or not.
+12.  `pomo_timer.py` : Running a timer-based cycle in the terminal based on the popular pomodoro technique(most of the apps that provided this feature are paid on Mac so thought of trying to figure out the logic)
+13.  `quote.py` : Fetches a random quotes using an API to display it.
+14.  
