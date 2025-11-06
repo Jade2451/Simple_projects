@@ -23,4 +23,4 @@ Collection of projects built during my free-time/ coursework.
 20.  `tts.py` : A text-to-speech converter based on user specified text using the `gTTS` python library.
 21.  `watermarker.py` : Add a text watermark to a given image using `PIL` library.
 22.  `word_counter.py` : Count the number of words in a specified string.
-23.  `wthrfetch.py` : Use an API to get the weather report. 
+23.  `wthrfetch.py` : Use an API to get the weather report of a user-specified city. 
