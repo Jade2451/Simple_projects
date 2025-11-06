@@ -21,4 +21,6 @@ Collection of projects built during my free-time/ coursework.
 18.  `snl.py` : A simple game of snakes and ladders. Follows the classic rule of reaching 100 to win the game. Certain values have been mapped to higher and lower values depending on snake or ladder on that square. 
 19.  `tiny_textadv.py` : A text-based adventure game based on player choices. Addition of scenarios can be do ne based on the template dictionary. 
 20.  `tts.py` : A text-to-speech converter based on user specified text using the `gTTS` python library.
-21.  `watermarker.py` : Add a text watermark to a given image using `PIL` library. 
+21.  `watermarker.py` : Add a text watermark to a given image using `PIL` library.
+22.  `word_counter.py` : Count the number of words in a specified string.
+23.  `wthrfetch.py` : Use an API to get the weather report. 
