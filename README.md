@@ -26,4 +26,5 @@ Collection of projects built during my free-time/ coursework.
 23.  `wthrfetch.py` : Use an API to get the weather report of a user-specified city.
 24.  `prime.py` : Find the prime numbers between 2 user-specified numbers as the range and return them. (The logic is so beautiful!)
 
-
+---
+## ...
